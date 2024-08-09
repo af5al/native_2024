@@ -19,10 +19,10 @@ export default GoalItem;
 
 const styles = StyleSheet.create({
     listItem: {
-        backgroundColor: '#4169e1',
+        backgroundColor: '#cdc8c7',
         marginBottom: 10,
         borderRadius: 6,
     },
-    listItemText: { color: 'white', padding: 8 },
+    listItemText: { padding: 8 },
     pressedItem: { opacity: 0.5 },
 });
